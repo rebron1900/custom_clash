@@ -1,3 +1,6 @@
+
+📺 | 虎牙直播,#genre#
+
 庆余年,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
 
 音乐榜,http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
@@ -422,7 +425,7 @@ TVB,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-544435613846
 
 
 
-
+📺 | 其他,#genre#
 CCTV1,http://hls.ye23.vip/hls/cctv1hd.m3u8
 CCTV2,http://hls.ye23.vip/hls/cctv2hd.m3u8
 CCTV3,http://hls.ye23.vip/hls/cctv3hd.m3u8
