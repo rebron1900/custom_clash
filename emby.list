@@ -133,5 +133,4 @@ DOMAIN-SUFFIX,cristiamo.xyz
 DOMAIN-SUFFIX,mulgore.net
 IP-CIDR,161.97.148.156/24,no-resolve
 DOMAIN-SUFFIX,emby.cristiamo.top
-DOMAIN-SUFFIX,one.mulgore.net
-DOMAIN-SUFFIX,two.mulgore.net
+DOMAIN-KEYWORD,mulgore.net
