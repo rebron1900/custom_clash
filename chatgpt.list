@@ -3,6 +3,12 @@
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 
+
+DOMAIN-SUFFIX,azurewebsites.net,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,cloudflare.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,bing.com,Ⓜ️ 微软服务
+DOMAIN-SUFFIX,clarity.ms,Ⓜ️ 微软服务
+
 # 内容：OpenAi
 # 数量：15条
 DOMAIN-KEYWORD,openai
