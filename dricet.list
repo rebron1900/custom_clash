@@ -9,6 +9,6 @@ DOMAIN-SUFFIX,icc2022.xyz
 DOMAIN-SUFFIX,icc2022.de
 DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-SUFFIX,ptzone.site
-DOMAIN-SUFFIX,tracker.rousi.zip
+DOMAIN,tracker.rousi.zip
 DST-PORT,26619
 
