@@ -1,14 +1,14 @@
 IP-CIDR,43.135.63.118/24,no-resolve
-DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,52pt.net
-DOMAIN-SUFFIX,raingfh.top
-DOMAIN-SUFFIX,42465236.xyz
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,m-team.io
-DOMAIN-SUFFIX,icc2022.xyz
-DOMAIN-SUFFIX,icc2022.de
-DOMAIN-SUFFIX,ptzone.xyz
-DOMAIN-SUFFIX,ptzone.site
-DOMAIN,tracker.rousi.zip
+;DOMAIN-SUFFIX,carpt.net
+;DOMAIN-SUFFIX,52pt.net
+;DOMAIN-SUFFIX,raingfh.top
+;DOMAIN-SUFFIX,42465236.xyz
+;DOMAIN-SUFFIX,m-team.cc
+;DOMAIN-SUFFIX,m-team.io
+;DOMAIN-SUFFIX,icc2022.xyz
+;DOMAIN-SUFFIX,icc2022.de
+;DOMAIN-SUFFIX,ptzone.xyz
+;DOMAIN-SUFFIX,ptzone.site
+;DOMAIN,tracker.rousi.zip
 DST-PORT,26619
 
